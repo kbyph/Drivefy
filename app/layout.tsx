@@ -4,7 +4,7 @@ import './globals.css'
 
 
 export const metadata: Metadata = {
-  title: 'Drivefy',
+  title: 'Drivefy - Car Rental with Great Rates & Service',
   description: 'Discover the best cars in the world.',
 }
 
