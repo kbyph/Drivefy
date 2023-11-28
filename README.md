@@ -1,4 +1,4 @@
-# Drivefy - Next.js | React | Tailwind.css | Typescript - Frontend Project
+# Drivefy - Next.js | React.js | Tailwind.css | Typescript - Frontend Project
 
 ## Overview of Project
 Spotify-themed car showcase application with a company website format, search filters & vehicle specs. 
